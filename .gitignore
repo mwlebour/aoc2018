@@ -1,3 +1,4 @@
 .history
+*.swp
 # storing all user-specific AoC generated data in here:
 input.out
